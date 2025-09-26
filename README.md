@@ -133,7 +133,3 @@ data/
 * Contact: Oh Seoyoung · Kookmin University · [5seo0_oh@kookmin.ac.kr](mailto:5seo0_oh@kookmin.ac.kr)
 
 ---
-
-### One-line description (for GitHub)
-
-Lightweight PPG respiratory-rate pipeline that fuses PSD/Hilbert/PRV, gates by SQI·SNR, and outputs conformal prediction intervals for trustworthy deployment.
